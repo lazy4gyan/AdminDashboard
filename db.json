@@ -1,0 +1,65 @@
+{
+  "user": [
+    {
+      "id": "netuser",
+      "password": "Net@1user",
+      "confirmPassword": "Net@1user",
+      "fullName": "net user",
+      "email": "netuser@gmail.com",
+      "gender": "male",
+      "dob": "2023-07-13T07:49:13.394Z",
+      "address": "12 street",
+      "agreement": true
+    },
+    {
+      "id": "admin",
+      "password": "Admin@123",
+      "confirmPassword": "Admin@123",
+      "fullName": "Admin",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "dob": "2023-07-11T03:12:14.821Z",
+      "address": "",
+      "agreement": true
+    },
+    {
+      "id": "johnd23",
+      "password": "Johnd@23",
+      "confirmPassword": "Johnd@23",
+      "fullName": "John Doe",
+      "email": "johndoe@gmail.com",
+      "gender": "male",
+      "dob": "1995-04-10T11:27:27.117Z",
+      "address": "017 Finn Parkways, Suite 852, 31392, Port Rosalinda, Oregon, United States",
+      "agreement": true
+    },
+    {
+      "id": "marie",
+      "password": "Marie@1234",
+      "confirmPassword": "Marie@1234",
+      "fullName": "Marie Trivol",
+      "email": "trivol.marie@outlook.com",
+      "gender": "female",
+      "dob": "2023-07-12T13:01:09.001Z",
+      "address": "920 Williamson Summit, Apt. 390, 42725-8246, East Beth, Minnesota, United States",
+      "agreement": true
+    }
+  ],
+  "clients": [
+    {
+      "id": "admin",
+      "fullName": "Admin",
+      "email": "admin@gmail.com",
+      "gender": "male",
+      "address": "12 downing street, 4th block UK United kingdom"
+    },
+    {
+      "id": "djha",
+      "fullName": "Divyank Jha",
+      "email": "djha@gmail.com",
+      "gender": "male",
+      "dob": "2023-07-12T07:52:25.782Z",
+      "address": "H.No 149, 2nd street New Delhi"
+    }
+  ]
+}

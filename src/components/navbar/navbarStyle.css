@@ -1,0 +1,16 @@
+nav{
+    width:100%;
+    background-color: cadetblue;
+    padding:1rem;
+}
+ul{
+    width:50%;
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    gap:2rem;
+}
+
+ul > li > a{
+    text-decoration: none;
+}

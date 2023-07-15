@@ -1,0 +1,32 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background-color: #e5e5e5;
+}
+
+.center-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 2rem 0;
+}
+
+.section-style {
+  width: 50%;
+  background-color: #ffffff;
+  padding: 2rem;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.loading-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
